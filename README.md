@@ -1,7 +1,7 @@
 # Data Science for Physical Scientists
 In my senior year at the University of Delaware, I enrolled in the course Data Science for Physical Scientists
 (PHYS 467). The instructor was Dr. Federica Bianca. While the labs were completed in groups, I have personally
-learned all concepts demonstrated in each assignment.
+learned all concepts demonstrated in each assignment. The class repository can be found [here](https://github.com/fedhere/DSPS).
 
 ## Labs
 The homework consisted of the following labs:
