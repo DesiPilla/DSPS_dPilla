@@ -10,8 +10,7 @@ The homework consisted of the following labs:
     * Normal, binomial, poisson, cauchy,  and log-normal distibutions
     * NumPy package
     * Plotting using matplotlib.pyplot
-3. Recreate the data analysis from the PhD thesis 'STATISTICAL TESTS FOR SCALING IN THE INTER-EVENT
-TIMES OF EARTHQUAKES IN CALIFORNIA' by Alvaro Corral.
+3. Recreate the data analysis from the PhD thesis 'Statistical Tests for Scaling in the Inter-Event Times of Earthquakes in California' by Alvaro Corral.
     * Data collection and cleaning
     * Pandas package
     * Broadcasting a panda dataframe
