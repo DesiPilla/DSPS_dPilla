@@ -15,3 +15,8 @@ The homework consisted of the following labs:
     * Pandas package
     * Broadcasting a panda dataframe
     * Data analysis
+4. Testing the Significance of Dark Matter
+    * Uncertainty analysis
+    * Propogation of error
+    * Astropy package (units)
+    * Errorbars
