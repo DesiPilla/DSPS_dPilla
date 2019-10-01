@@ -20,3 +20,8 @@ The homework consisted of the following labs:
     * Astropy package (units)
     * Errorbars
     * In class exercise: Monte Carlo simulation
+5. Reidentifying Urban Information (using PLUTO database to identify owners who may be violating energy regulations)
+    * drive module (from google.colab package)
+    * Merging dataframes
+    * Data wrangling
+    * In class exercise: Unix commands, !wget, unzip
