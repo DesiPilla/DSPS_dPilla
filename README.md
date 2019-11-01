@@ -25,3 +25,12 @@ The homework consisted of the following labs:
     * Merging dataframes
     * Data wrangling
     * In class exercise: Unix commands, !wget, unzip
+6. Find evidence of the expansion of the universe by fitting supernova cosmology data. The linear relationship between logarithm redshift and luminosity of supernovae is this evidence.
+    * SciPy curve fitting (optimize, curve_fit)
+    * Sklearn fitting (LinearRegression)
+    * Cross validation in Sklearn
+7. Test different models for the relationship between the density of electrons present in the conduction band of charge-neutral multilayers and temperature.
+    * Statsmodels (ordinary linear fits / ols)
+    * log-likelihood
+    * emcee MCMC method
+8. Data visualization - MLB Batted Ball Hit Probabilities
