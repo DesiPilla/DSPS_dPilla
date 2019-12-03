@@ -34,3 +34,23 @@ The homework consisted of the following labs:
     * log-likelihood
     * emcee MCMC method
 8. Data visualization - MLB Batted Ball Hit Probabilities
+9. Analysis of Higgs Boson decay
+    * Kaggle
+    * Ensemble methods (RandomForest, GradientBoosted)
+    * Confusion matrix
+    * Feature selection
+10. Introduction to unsupervised machine learning
+    * Whitening data
+    * K-means clustering
+    * Agglomerative clustering
+11. Analysis of TESS light curves for periodicity, variablity, etc.
+    * Lomb Scargle periodigrams
+    * Phase-folding
+    * Binning
+    * In class lab: clustering of time series
+12. Using TensorFlow to recognize hand-written numbers and an exploration of DeepDream
+    * Creating/training/predicting with Neural Networks in TensorFlow
+    * Producing DeepDream images
+13. Gradient Descent Demo
+    * Gradient Descient
+    * Loss function
