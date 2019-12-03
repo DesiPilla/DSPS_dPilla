@@ -1,13 +1,15 @@
 Group members: Cat Harty, Theodore Fessaras, Samuel Matylewicz, Desi Pilla
 
-#Assignment 1
+# Assignment 1
 I worked through assignment mainly by myself. Our group consulted with each other, but we did not meet up explicitly to work on the assignment.
 
 # Assignment 2
 **Original Image**
+
 ![Original Image](https://github.com/DesiPilla/DSPS_dPilla/blob/master/HW12/PenguinsShouting.jpg)
 
 **Rendered Image**
+
 ![Deep Dream Image](https://github.com/DesiPilla/DSPS_dPilla/blob/master/HW12/outfile.jpg)
 
 This photo really creeps me out. The deep dream model took a perfectly lovely photo and found big creep eyes and put them all over this image. Though the eyes seem to be surrounded by dog-like faces, this render really freaks me out.
